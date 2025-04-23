@@ -276,11 +276,13 @@ provided by this project:
 Name | Guest OS
 -----|---------
 alpine | Alpine
-centos.stream10 | CentOS Stream 10
-centos.stream10.desktop | CentOS Stream 10
-centos.stream9 | CentOS Stream 9
-centos.stream9.desktop | CentOS Stream 9
-centos.stream9.dpdk | CentOS Stream 9
+centos.stream10 | CentOS Stream 10 (amd64)
+centos.stream10.arm64 | CentOS Stream 10 (arm64)
+centos.stream10.desktop | CentOS Stream 10 Desktop (amd64)
+centos.stream9 | CentOS Stream 9 (amd64)
+centos.stream9.arm64 | CentOS Stream 9 (arm64)
+centos.stream9.desktop | CentOS Stream 9 Desktop (amd64)
+centos.stream9.dpdk | CentOS Stream 9 DPDK (amd64)
 cirros | Cirros
 debian | Debian
 fedora | Fedora (amd64)

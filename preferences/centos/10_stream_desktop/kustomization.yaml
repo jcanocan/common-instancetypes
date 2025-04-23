@@ -3,9 +3,10 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 
 resources:
-  - ../10_stream
+  - ../10_stream/amd64
 
 components:
+  - ./metadata
   - ../../components/tablet-virtio
 
 nameSuffix: ".desktop"

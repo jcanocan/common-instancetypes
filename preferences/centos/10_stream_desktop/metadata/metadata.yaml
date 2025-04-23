@@ -4,4 +4,6 @@ kind: VirtualMachinePreference
 metadata:
   name: metadata
   annotations:
-    openshift.io/display-name: "CentOS Stream 10"
+    openshift.io/display-name: "CentOS Stream 10 Desktop (amd64)"
+  labels:
+    instancetype.kubevirt.io/arch: "amd64"
