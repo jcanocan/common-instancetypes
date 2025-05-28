@@ -321,4 +321,6 @@ windows.2k22.virtio | Microsoft Windows Server 2022 (virtio)
 windows.2k25 | Microsoft Windows Server 2025
 windows.2k25.virtio | Microsoft Windows Server 2025 (virtio)
 windows.2k3 | Microsoft Windows Server 2003
+windows.2k8 | Microsoft Windows Server 2008/2008 R2 (amd64)
+windows.2k8.i386 | Microsoft Windows Server 2008 (i386)
 windows.xp | Microsoft Windows XP
